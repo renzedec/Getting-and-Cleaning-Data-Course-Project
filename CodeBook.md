@@ -16,7 +16,7 @@ This column represents the volunteer number doing all the aforementioned type of
 
 
 ## Column Names and Measurement Data
-All these data are based from the activities discussed on the README.md wherein the code solves for the average mean() or standard deviation std() of each.
+All these data are based from the activities discussed on the README.md wherein the code only extracts the average mean() or standard deviation std() of each.
 - "activity"
 - "subject"
 - "tBodyAcc-mean()-X"
